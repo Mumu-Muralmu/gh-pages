@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
 title: MUMU
 logo: /assets/logo.png
+description: Makes grids easier.
+theme: jekyll-theme-minimal
